@@ -71,7 +71,7 @@
     </profiles>
 
     <properties>
-        <rest-assured.version>3.3.0</rest-assured.version>
+        <rest-assured.version>4.4.0</rest-assured.version>
         <thin.version>1.0.22.RELEASE</thin.version>
         <spring-boot.version>2.6.1</spring-boot.version>
         <aspectjweaver.version>1.9.7</aspectjweaver.version>
