@@ -15,3 +15,4 @@
 ### reactor-core
 
 - [Combining Publishers in Project Reactor](spring-reactive-modules/reactor-core/docs/Reactor_CombineStreams.md)
+- [Programmatically Creating Sequences with Project Reactor](spring-reactive-modules/reactor-core/docs/Reactor_Flux_Sequences.md)
