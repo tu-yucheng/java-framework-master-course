@@ -20,3 +20,5 @@
 - [How to Convert Mono<List<T\>> Into Flux<T\>](spring-reactive-modules/reactor-core/docs/Reactor_MonoToFlux.md)
 - [Project Reactor: map() vs flatMap()](spring-reactive-modules/reactor-core/docs/Reactor_Map_FlatMap.md)
 - [What Does Mono.defer() Do?](spring-reactive-modules/reactor-core/docs/Reactor_MonoDefer.md)
+- [Handling Exceptions in Project Reactor](spring-reactive-modules/reactor-core/docs/Reactor_Exception.md)
+- [Difference Between Flux.create and Flux.generate](spring-reactive-modules/reactor-core/docs/Reactor_Create_Generate.md)
