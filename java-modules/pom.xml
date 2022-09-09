@@ -46,7 +46,7 @@
         <!--<module>java-concurrency-advanced-3</module>-->
         <!--<module>java-concurrency-advanced-4</module>-->
         <module>java-concurrency-basic-1</module>
-        <!--<module>java-concurrency-basic-2</module>-->
+        <module>java-concurrency-basic-2</module>
         <!--<module>java-concurrency-basic-3</module>-->
         <!--<module>java-concurrency-collections-1</module>-->
         <!--<module>java-concurrency-collections-2</module>-->
