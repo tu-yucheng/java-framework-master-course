@@ -13,6 +13,8 @@
 
 - [How to Delay Code Execution in Java](java-modules/java-concurrency-basic-2/docs/Java_Delay_Execution.md)
 - [Difference Between Wait and Sleep in Java](java-modules/java-concurrency-basic-2/docs/Java_Wait_Sleep.md)
+- [Guide to AtomicMarkableReference](java-modules/java-concurrency-basic-2/docs/Java_AtomicMarkableReference.md)
+- [Why are Local Variables Thread-Safe in Java](java-modules/java-concurrency-basic-2/docs/Java_LocalVariable_ThreadSafe.md)
 
 # jackson-modules
 
