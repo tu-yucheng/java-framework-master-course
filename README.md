@@ -5,6 +5,9 @@
 - [Guide to java.util.concurrent.Future](java-modules/java-concurrency-basic-1/docs/Java_Future.md)
 - [Overview of the java.util.concurrent](java-modules/java-concurrency-basic-1/docs/Java_Concurrent.md)
 - [Implementing a Runnable vs Extending a Thread](java-modules/java-concurrency-basic-1/docs/Java_Thread_Runnable.md)
+- [How to Kill a Java Thread](java-modules/java-concurrency-basic-1/docs/Java_Thread_Stop.md)
+- [Runnable vs. Callable in Java](java-modules/java-concurrency-basic-1/docs/Java_Runnable_Callable.md)
+- [What is Thread-Safety and How to Achieve it?](java-modules/java-concurrency-basic-1/docs/Java_ThreadSafe.md)
 
 # jackson-modules
 
