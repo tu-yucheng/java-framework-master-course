@@ -9,6 +9,11 @@
 - [Runnable vs. Callable in Java](java-modules/java-concurrency-basic-1/docs/Java_Runnable_Callable.md)
 - [What is Thread-Safety and How to Achieve it?](java-modules/java-concurrency-basic-1/docs/Java_ThreadSafe.md)
 
+### java-concurrency-basic-2
+
+- [How to Delay Code Execution in Java](java-modules/java-concurrency-basic-2/docs/Java_Delay_Execution.md)
+- [Difference Between Wait and Sleep in Java](java-modules/java-concurrency-basic-2/docs/Java_Wait_Sleep.md)
+
 # jackson-modules
 
 ### jackson-core
