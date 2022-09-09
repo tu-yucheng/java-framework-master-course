@@ -3,6 +3,8 @@
 ### java-concurrency-basic-1
 
 - [Guide to java.util.concurrent.Future](java-modules/java-concurrency-basic-1/docs/Java_Future.md)
+- [Overview of the java.util.concurrent](java-modules/java-concurrency-basic-1/docs/Java_Concurrent.md)
+- [Implementing a Runnable vs Extending a Thread](java-modules/java-concurrency-basic-1/docs/Java_Thread_Runnable.md)
 
 # jackson-modules
 
