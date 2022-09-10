@@ -15,6 +15,7 @@
 - [Difference Between Wait and Sleep in Java](java-modules/java-concurrency-basic-2/docs/Java_Wait_Sleep.md)
 - [Guide to AtomicMarkableReference](java-modules/java-concurrency-basic-2/docs/Java_AtomicMarkableReference.md)
 - [Why are Local Variables Thread-Safe in Java](java-modules/java-concurrency-basic-2/docs/Java_LocalVariable_ThreadSafe.md)
+- [How to Get the Number of Threads in a Java Process](java-modules/java-concurrency-basic-2/docs/Java_Get_ThreadNumber.md)
 
 # jackson-modules
 
