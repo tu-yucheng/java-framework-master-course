@@ -63,3 +63,4 @@
 
 - [Intro To Reactor Core](spring-reactive-modules/spring-reactive-4/docs/Reactor_Core.md)
 - [Guide to Spring 5 WebFlux](spring-reactive-modules/spring-reactive-4/docs/Spring_WebFlux.md)
+- [Introduction to the Functional Web Framework in Spring 5](spring-reactive-modules/spring-reactive-4/docs/Spring_FunctionWeb.md)
