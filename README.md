@@ -22,6 +22,10 @@
 
 - [Understanding the NumberFormatException in Java](java-modules/java-concurrency-basic-3/docs/Java_Interrupted_Exception.md)
 
+### java-concurrency-advanced-1
+
+- [Introduction to Thread Pools in Java](java-modules/java-concurrency-advanced-1/docs/Java_ThreadPools.md)
+
 # jackson-modules
 
 ### jackson-core
