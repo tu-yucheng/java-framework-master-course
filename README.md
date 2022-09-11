@@ -16,6 +16,11 @@
 - [Guide to AtomicMarkableReference](java-modules/java-concurrency-basic-2/docs/Java_AtomicMarkableReference.md)
 - [Why are Local Variables Thread-Safe in Java](java-modules/java-concurrency-basic-2/docs/Java_LocalVariable_ThreadSafe.md)
 - [How to Get the Number of Threads in a Java Process](java-modules/java-concurrency-basic-2/docs/Java_Get_ThreadNumber.md)
+- [Set the Name of a Thread in Java](java-modules/java-concurrency-basic-2/docs/Java_Set_ThreadName.md)
+
+### java-concurrency-basic-3
+
+- [Understanding the NumberFormatException in Java](java-modules/java-concurrency-basic-3/docs/Java_Interrupted_Exception.md)
 
 # jackson-modules
 
