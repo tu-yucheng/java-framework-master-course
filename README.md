@@ -29,6 +29,7 @@
 ### java-concurrency-advanced-3
 
 - [Common Concurrency Pitfalls in Java](java-modules/java-concurrency-advanced-3/docs/Java_Common_Concurrency_Pitfalls.md)
+- [Guide to RejectedExecutionHandler](java-modules/java-concurrency-advanced-3/docs/Java_RejectedExecutionHandler.md)
 
 # jackson-modules
 
@@ -44,12 +45,18 @@
 - [BeanNameAware and BeanFactoryAware Interfaces in Spring](spring-modules/spring-core-1/docs/Spring_Aware_Interface.md)
 - [Access a File from the Classpath in a Spring Application](spring-modules/spring-core-1/docs/Spring_Classpath_FileAccess.md)
 - [Spring Application Context Events](spring-modules/spring-core-1/docs/Spring_Context_Event.md)
+- [What is a Spring Bean?](spring-modules/spring-core-1/docs/Spring_Bean.md)
 
 # spring-boot-modules
 
 ### spring-boot-basic-customization-1
 
 - [How to Change the Default Port in Spring Boot](spring-boot-modules/spring-boot-basic-customization-1/docs/SpringBoot_Change_Port.md)
+- [Using Custom Banners in Spring Boot](spring-boot-modules/spring-boot-basic-customization-1/docs/SpringBoot_Banner.md)
+- [Create a Custom FailureAnalyzer with Spring Boot](spring-boot-modules/spring-boot-basic-customization-1/docs/SpringBoot_FailureAnalyzer.md)
+- [Spring Boot: Customize Whitelabel Error Page](spring-boot-modules/spring-boot-basic-customization-1/docs/SpringBoot_CustomErrorPage.md)
+- [Spring Boot: Configuring a Main Class](spring-boot-modules/spring-boot-basic-customization-1/docs/SpringBoot_MainClass.md)
+- [How to Define a Spring Boot Filter?](spring-boot-modules/spring-boot-basic-customization-1/docs/SpringBoot_Filter.md)
 
 # spring-reactive-modules
 
