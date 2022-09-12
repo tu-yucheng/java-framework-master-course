@@ -26,6 +26,10 @@
 
 - [Introduction to Thread Pools in Java](java-modules/java-concurrency-advanced-1/docs/Java_ThreadPools.md)
 
+### java-concurrency-advanced-3
+
+- [Common Concurrency Pitfalls in Java](java-modules/java-concurrency-advanced-3/docs/Java_Common_Concurrency_Pitfalls.md)
+
 # jackson-modules
 
 ### jackson-core
@@ -39,6 +43,7 @@
 - [Introduction to Spring’s StreamUtils](spring-modules/spring-core-1/docs/Spring_StreamUtils.md)
 - [BeanNameAware and BeanFactoryAware Interfaces in Spring](spring-modules/spring-core-1/docs/Spring_Aware_Interface.md)
 - [Access a File from the Classpath in a Spring Application](spring-modules/spring-core-1/docs/Spring_Classpath_FileAccess.md)
+- [Spring Application Context Events](spring-modules/spring-core-1/docs/Spring_Context_Event.md)
 
 # spring-boot-modules
 
